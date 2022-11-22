@@ -1,0 +1,30 @@
+/* *{
+    border: 1px solid red;
+} */
+
+body{
+    margin:0;
+    padding-top: 5%;
+    font-family: 'Fredoka One', cursive;
+    background-color: #0b172c;
+}
+
+.container{
+    background: linear-gradient(to right, #084c4e, #3b6444);
+    border: 1px solid cornflowerblue;
+}
+.resultado{
+    background-color: black;
+    color: ghostwhite;
+}
+.resultado h2{
+    font-size:100px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.btn{
+    width: 90%;
+}
+.btn:hover{
+    background-color: teal;
+}
